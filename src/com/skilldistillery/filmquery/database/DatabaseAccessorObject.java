@@ -8,5 +8,13 @@ public class DatabaseAccessorObject implements DatabaseAccessor {
   public Film findFilmById(int filmId) {
     return null;
   }
+//  @Override
+//  public Actor findActorById(int actorId) {
+//	  return null;
+//  }
+//  @Override
+//  public Film findActorsByFilmId(int filmId) {
+//	  return null;
+//  }
 
 }
